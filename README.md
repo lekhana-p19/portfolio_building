@@ -1,14 +1,19 @@
-# Hello World C Project
+# Simple Line Editor in C
 
-This is my first C program for my engineering portfolio.
+## Team Members
+- Adithi
+- Lekhana
 
-## How to Compile and Run
-gcc hello.c -o hello && ./hello
+## Features Implemented
+1. Insert Line
+2. Delete Line
+3. Display Document
 
-## Student Details
-- **Name:** Lekhana
-## Collaboration Log
+## Data Structure
+Array of strings is used to store the document lines.
 
-- Partner: Adithi (GitHub: adithi546-oss)
-- What we built together: Added the `greet()` function to `hello.c`.
-- What I learned: I learned how to use GitLens and Live Share for collaborative coding.
+## How to Compile
+gcc main.c -o line_editor
+
+## How to Run
+.\line_editor.exe
