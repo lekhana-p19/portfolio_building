@@ -17,3 +17,7 @@ gcc main.c -o line_editor
 
 ## How to Run
 .\line_editor.exe
+
+## Projects
+This is a section showcasing my portfolio developments.
+
